@@ -65,4 +65,4 @@ Worked with both HTML and CSS coding languages in this class. Used both to creat
 ### Accomplishments !*!*
 <img src="https://github.com/user-attachments/assets/d9379dd2-8857-4487-8270-8b11ecaca9a2" width = "350"/>
 <br>
-<img src="https://github.com/user-attachments/assets/7c6bb958-0c44-401e-9db2-2f9d700fa4ce" width = "350"/>guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<img src="https://github.com/user-attachments/assets/7c6bb958-0c44-401e-9db2-2f9d700fa4ce" width = "350"/>
