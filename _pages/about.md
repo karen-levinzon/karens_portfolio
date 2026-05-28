@@ -1,56 +1,68 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+# Get to Know: Karen Levinzon !*!*
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## About Me !*!*
+I am a 14-year-old freshman at Richland High School. I am in AP Computer Science Principles, and this class is interesting, as learning to create websites, programs, and even simple games with code is very interesting to me! I like how code can be used to create almost anything you want! Something else I would be interested in learning in the computer science/technology field is graphic design and/or video game design, as these are cool areas to learn, especially given my interest in designing and creating things my way. This was just a brief introduction to learn more about my interest in computer science, technology, and design! :)
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## My Skills !*!*
+I have had experience with three coding languages: HTML, CSS, and JavaScript. I was also in a Computer Science Discoveries class at Charmichael Middle School, where I first started coding. This is where I learned to use both HTML and CSS, and I even created a simple webpage using what I learned! Now, here in high school, is where I learned to use JavaScript and gained a better understanding of graphics, iteration, selection, and so on, which I did not have before, since HTML and CSS used completely different things. With JavaScript, I have created two simple games using everything I have learned about this coding language! Some other things I have learned from both these coding languages include debugging, problem-solving, much more about the Internet, and so on. This is a little bit about the skills I have learned over the time I have been in computer science! :)
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Career Goals !*!*
+To combine my interests in computer science, design, and technology, I would like to pursue a career in graphic design. This is a way I can mix many of the things I have learned in computer science to make graphics however I want! I could also create graphics that combine my other personal interests with my technology-related interests, such as my favorite music artists and bands, my favorite shows/movies, and so on, and this could make me enjoy the career much more, knowing I could mix in what I personally love to these other fields, which are also within my interest! I also want to pursue this career, as it could be a good opportunity to enhance my creativity and show it to others in the same field, allowing me to share my interests and see others' interests, creativity, and ideas! This is a career I would want to pursue in the technology field! :)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<hr>
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+### Karen Levinzon
+# RESUME
+### Contact Me !*!*
+klkat8@yahoo.com
+<hr>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### Education !*!*
+✦ Richland High School | 2025-Present. Class of 2029.
+<br>
+✦ Carmichael Middle School | 2022-2025
+<br>
+✦ GPA: 3.9
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### Skills !*!*
+✦ JavaScript: ★ ★ ★ ★ ☆
+<br>
+✦ HTML + CSS: ★ ★ ★ ★ ☆
+<br>
+✦ Algorithm Development: ★ ★ ★ ★ ☆
+<br>
+✦ Event-driven Programming: ★ ★ ★ ★ ★ 
+<br>
+✦ Logic & Abstraction: ★ ★ ★ ★ ☆
+<br>
+✦ Teamwork: ★ ★ ★ ★ ☆
+<br>
+✦ Communication: ★ ★ ★ ★ ☆
+<br>
+✦ Time Management: ★ ★ ★ ★ ☆
+<br>
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### Experience !*!*
+#### ✦ AP Computer Science Principles | Richland High School:
+Learned how to use the JavaScript coding language and much more about key events, graphics, problem solving, debugging, logic, abstract, and so on. Used what I learned from this class to create two programs, both of which are simple games that still show what I learned, as I include key events, user input, output, loops, lists, sequencing, selection, and so on in my code, which helped me create my programs how I wanted to.
+#### ✦ Computer Science Discoveries | Carmichael Middle School:
+Worked with both HTML and CSS coding languages in this class. Used both to create a webpage that included links, different text sizes, images, and other elements within the code, just as I wanted.
 
-**Markdown generator**
+### Activities !*!*
+✦ Program Creating
+<br>
+✦ Webpage Creating
+<br>
+✦ Coding Exercises
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+### Technology/Coding Projects !*!*
+✦ Music-related webpage created with HTML/CSS
+<br>
+✦ Cat-related guessing game created with JavaScript
+<br>
+✦ Music-related guessing game created with JavaScript
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### Accomplishments !*!*
+<img src="https://github.com/user-attachments/assets/d9379dd2-8857-4487-8270-8b11ecaca9a2" width = "350"/>
+<br>
+<img src="https://github.com/user-attachments/assets/7c6bb958-0c44-401e-9db2-2f9d700fa4ce" width = "350"/>guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
